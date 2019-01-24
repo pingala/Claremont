@@ -1,4 +1,8 @@
 .log
+chromedriver
+
+workshop2/**/*.html
+venv/
 
 .vagrant/
 .DS_Store/
