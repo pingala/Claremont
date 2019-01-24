@@ -51,3 +51,11 @@ browser.find_element_by_css_selector("#MainContent_ddnRcrdsPerPage > option:nth-
 # This will grab the number of page links at the bottom of the page
 num_pages = len(browser.find_element_by_css_selector("#MainContent_dpListView").find_elements_by_css_selector("*"))
 
+
+####################################################
+# Python and R have different tools for scraping
+# Checkout BeautifulSoup for methodlogies in Python
+####################################################
+
+
+
