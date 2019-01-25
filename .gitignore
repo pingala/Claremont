@@ -4,6 +4,11 @@ chromedriver
 workshop2/**/*.html
 venv/
 
+workshop3/ex1_solution.py
+workshop3/ex2_solution.py
+workshop3/ex1_solution.R
+workshop3/ex2_solution.R
+
 .vagrant/
 .DS_Store/
 .DS_Store

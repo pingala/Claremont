@@ -1,0 +1,35 @@
+{
+  "timestamp": "2019-01-24 23:43",
+  "normal": {
+    "as": "AS3659 Claremont University Consortium",
+    "city": "Claremont",
+    "country": "United States",
+    "countryCode": "US",
+    "isp": "Claremont University Consortium",
+    "lat": 34.1092,
+    "lon": -117.7183,
+    "org": "Claremont University Consortium",
+    "query": "134.173.248.4",
+    "region": "CA",
+    "regionName": "California",
+    "status": "success",
+    "timezone": "America/Los_Angeles",
+    "zip": "91711"
+  },
+  "tor": {
+    "as": "AS62744 Quintex Alliance Consulting",
+    "city": "San Angelo",
+    "country": "United States",
+    "countryCode": "US",
+    "isp": "Quintex Alliance Consulting",
+    "lat": 31.5447,
+    "lon": -100.518,
+    "org": "Quintex Alliance Consulting",
+    "query": "199.249.230.83",
+    "region": "TX",
+    "regionName": "Texas",
+    "status": "success",
+    "timezone": "America/Chicago",
+    "zip": "76901"
+  }
+}
